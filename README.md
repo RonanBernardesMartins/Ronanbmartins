@@ -17,14 +17,7 @@ Desenvolvimento Backend e Frontend
 
 💻 Tecnologias que domino
 
-C
-
-Python
-
-Java
-
 <img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/698ae707-f7d8-4903-8818-3e17ae9c5789" />
- / PostgreSQL
 
 
 🌐 Contato
